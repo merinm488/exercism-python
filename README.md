@@ -7,6 +7,7 @@ Python practice
 | #   | Exercise Name | Status |
 | --- | ------------- | ------ |
 | 1   | Hello World   | ✅     |
+| 2   | Lasagna       | ✅     |
 
 ---
 
