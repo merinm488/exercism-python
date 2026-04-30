@@ -1,6 +1,6 @@
-# Exercism Python Track
+# exercism-python
 
-This repository contains my solutions to the Exercism Python track.
+Python practice
 
 ## Progress
 
