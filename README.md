@@ -4,16 +4,20 @@ Python practice
 
 ## Progress
 
-| #   | Exercise Name | Status |
-| --- | ------------- | ------ |
-| 1   | Hello World   | ✅     |
-| 2   | Lasagna       | ✅     |
-| 3   | Exchnage      | ✅     |
+| #   | Exercise Name             | Status |
+| --- | ------------------------- | ------ |
+| 1   | Hello World               | ✅     |
+| 2   | Lasagna                   | ✅     |
+| 3   | Exchnage                  | ✅     |
+| 4   | Ghost Gobble Arcade Game  | ✅     |
+| 5   | Grains                    | ✅     |
+| 6   | Meltdown Mitigation       | ✅     |
+| 7   | Little sisters Vocabulary | ✅     |
 
 ---
 
 ### Workflow
 
 - Download via Exercism CLI
-- Solve locally and run test using exercism test
+- Solve locally and run test using exercism test or python -m pytest -v
 - Submit to Exercism
