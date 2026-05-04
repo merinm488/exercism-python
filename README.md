@@ -13,6 +13,7 @@ Python practice
 | 5   | Grains                    | ✅     |
 | 6   | Meltdown Mitigation       | ✅     |
 | 7   | Little sisters Vocabulary | ✅     |
+| 8   | Black Jack                | ✅     |
 
 ---
 
