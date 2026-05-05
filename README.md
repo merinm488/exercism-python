@@ -14,6 +14,7 @@ Python practice
 | 6   | Meltdown Mitigation       | ✅     |
 | 7   | Little sisters Vocabulary | ✅     |
 | 8   | Black Jack                | ✅     |
+| 9   | Card Games                | ✅     |
 
 ---
 
