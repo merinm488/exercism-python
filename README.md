@@ -4,17 +4,18 @@ Python practice
 
 ## Progress
 
-| #   | Exercise Name             | Status |
-| --- | ------------------------- | ------ |
-| 1   | Hello World               | ✅     |
-| 2   | Lasagna                   | ✅     |
-| 3   | Exchnage                  | ✅     |
-| 4   | Ghost Gobble Arcade Game  | ✅     |
-| 5   | Grains                    | ✅     |
-| 6   | Meltdown Mitigation       | ✅     |
-| 7   | Little sisters Vocabulary | ✅     |
-| 8   | Black Jack                | ✅     |
-| 9   | Card Games                | ✅     |
+| #   | Exercise Name              | Status |
+| --- | -------------------------- | ------ |
+| 1   | Hello World                | ✅     |
+| 2   | Lasagna                    | ✅     |
+| 3   | Exchnage                   | ✅     |
+| 4   | Ghost Gobble Arcade Game   | ✅     |
+| 5   | Grains                     | ✅     |
+| 6   | Meltdown Mitigation        | ✅     |
+| 7   | Little sisters Vocabulary  | ✅     |
+| 8   | Black Jack                 | ✅     |
+| 9   | Card Games                 | ✅     |
+| 10  | Chaitanas Colossal Coaster | ✅     |
 
 ---
 
