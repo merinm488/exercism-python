@@ -16,6 +16,9 @@ Python practice
 | 8   | Black Jack                 | ✅     |
 | 9   | Card Games                 | ✅     |
 | 10  | Chaitanas Colossal Coaster | ✅     |
+| 11  | Guido's Gorgeous Lasagna   | ✅     |
+| 12  | Currency Exchange          | ✅     |
+| 13  | Making the Grade           | ✅     |
 
 ---
 
