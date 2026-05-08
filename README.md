@@ -19,6 +19,7 @@ Python practice
 | 11  | Guido's Gorgeous Lasagna   | ✅     |
 | 12  | Currency Exchange          | ✅     |
 | 13  | Making the Grade           | ✅     |
+| 14  | Tisbury Treasure Hunt      | ✅     |
 
 ---
 
