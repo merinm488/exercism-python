@@ -21,6 +21,7 @@ Python practice
 | 13  | Making the Grade           | ✅     |
 | 14  | Tisbury Treasure Hunt      | ✅     |
 | 15  | Armstrong Number           | ✅     |
+| 16  | Leap                       | ✅     |
 
 ---
 
