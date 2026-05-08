@@ -20,6 +20,7 @@ Python practice
 | 12  | Currency Exchange          | ✅     |
 | 13  | Making the Grade           | ✅     |
 | 14  | Tisbury Treasure Hunt      | ✅     |
+| 15  | Armstrong Number           | ✅     |
 
 ---
 
