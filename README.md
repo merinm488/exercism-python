@@ -22,6 +22,8 @@ Python practice
 | 14  | Tisbury Treasure Hunt      | ✅     |
 | 15  | Armstrong Number           | ✅     |
 | 16  | Leap                       | ✅     |
+| 17  | Triangle                   | ✅     |
+| 18  | Inventory Management       | ✅     |
 
 ---
 
