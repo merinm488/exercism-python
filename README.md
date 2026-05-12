@@ -24,6 +24,7 @@ Python practice
 | 16  | Leap                       | ✅     |
 | 17  | Triangle                   | ✅     |
 | 18  | Inventory Management       | ✅     |
+| 19  | Mecha Munch Management     | ✅     |
 
 ---
 
