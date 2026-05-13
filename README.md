@@ -25,6 +25,7 @@ Python practice
 | 17  | Triangle                   | ✅     |
 | 18  | Inventory Management       | ✅     |
 | 19  | Mecha Munch Management     | ✅     |
+| 20  | Cater Waiter               | ✅     |
 
 ---
 
