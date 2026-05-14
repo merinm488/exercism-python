@@ -27,6 +27,7 @@ Python practice
 | 19  | Mecha Munch Management     | ✅     |
 | 20  | Cater Waiter               | ✅     |
 | 21  | Bob                        | ✅     |
+| 22  | Raindrops                  | ✅     |
 
 ---
 
