@@ -26,6 +26,7 @@ Python practice
 | 18  | Inventory Management       | ✅     |
 | 19  | Mecha Munch Management     | ✅     |
 | 20  | Cater Waiter               | ✅     |
+| 21  | Bob                        | ✅     |
 
 ---
 
