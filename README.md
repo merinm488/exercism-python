@@ -28,6 +28,8 @@ Python practice
 | 20  | Cater Waiter               | ✅     |
 | 21  | Bob                        | ✅     |
 | 22  | Raindrops                  | ✅     |
+| 23  | Pig Latin                  | ✅     |
+| 24  | Matching Brackets          | ✅     |
 
 ---
 
