@@ -30,6 +30,7 @@ Python practice
 | 22  | Raindrops                  | ✅     |
 | 23  | Pig Latin                  | ✅     |
 | 24  | Matching Brackets          | ✅     |
+| 25  | Pangram                    | ✅     |
 
 ---
 
