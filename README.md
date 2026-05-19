@@ -31,6 +31,7 @@ Python practice
 | 23  | Pig Latin                  | ✅     |
 | 24  | Matching Brackets          | ✅     |
 | 25  | Pangram                    | ✅     |
+| 26  | Isogram                    | ✅     |
 
 ---
 
