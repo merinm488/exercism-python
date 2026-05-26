@@ -32,6 +32,9 @@ Python practice
 | 24  | Matching Brackets          | ✅     |
 | 25  | Pangram                    | ✅     |
 | 26  | Isogram                    | ✅     |
+| 27  | ISBN Verifier              | ✅     |
+| 28  | Darts                      | ✅     |
+| 29  | Perfect Numbers            | ✅     |
 
 ---
 
